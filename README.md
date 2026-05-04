@@ -11,3 +11,11 @@ Implementación de programas en ensamblador x86 que utilizan las interrupciones 
 ## Herramientas utilizadas
 - DOSBox
 - NASM
+
+## Evidencias
+
+## 1: Salida con INT 21h
+
+Se implementó la impresión de tres líneas de texto utilizando la interrupción INT 21h con la función 09h.
+
+![Checkpoint 1](capturas/checkpoint1.png)
