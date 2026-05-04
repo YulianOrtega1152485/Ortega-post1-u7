@@ -25,3 +25,9 @@ Se implementó la impresión de tres líneas de texto utilizando la interrupció
 Se utilizó la interrupción INT 10h para limpiar la pantalla, posicionar el cursor y mostrar caracteres con atributos de color.
 
 ![Checkpoint 2](capturas/checkpoint2.png)
+
+## 3: Cadena con posición y color
+
+Se implementó un bucle que recorre una cadena utilizando el registro SI, posicionando el cursor y mostrando cada carácter con INT 10h en color verde.
+
+![Checkpoint 3](capturas/checkpoint3.png)
