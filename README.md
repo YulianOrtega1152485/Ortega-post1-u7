@@ -19,3 +19,9 @@ Implementación de programas en ensamblador x86 que utilizan las interrupciones 
 Se implementó la impresión de tres líneas de texto utilizando la interrupción INT 21h con la función 09h.
 
 ![Checkpoint 1](capturas/checkpoint1.png)
+
+## 2: Control de pantalla con INT 10h
+
+Se utilizó la interrupción INT 10h para limpiar la pantalla, posicionar el cursor y mostrar caracteres con atributos de color.
+
+![Checkpoint 2](capturas/checkpoint2.png)
